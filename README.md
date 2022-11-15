@@ -1,7 +1,7 @@
 
 <h1 align="center">Hola 👋, soy Florencia Fontan Desarrolladora WEB</h1>
 
-<h3 align="center">Aqui encontraras algunos de mis proyectos</h3>
+<h3 align="center">Aquí encontraras algunos de mis proyectos</h3>
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 - 📫 Contactame por cualquier duda a **flofontan123@gmail.com**
